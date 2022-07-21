@@ -3,7 +3,7 @@
 ## Web Development
 * ReactJS
 * NextJS
-* Svelte
+* Tailwind
 
 ## Mobile Development
 * Flutter
@@ -11,9 +11,6 @@
 
 ## Artificial Intellegence
 * Python
-* Jupiter
-* Miniconda
 
 ## Blockchain Technology
 * Blockchain Fundamental
-* Solidity
